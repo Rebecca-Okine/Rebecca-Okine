@@ -16,7 +16,7 @@
 
 ## 🔥My Stats
 <div align="center">
-<img height="140cm"src="https://github-readme-stats.vercel.app/api?username=rebeccaokine&show_icons=true&theme=midnight-purple&hide=prs">
+<img height="140cm"src="https://github-readme-stats-sigma-five.vercel.app/api?username=rebeccaokine&show_icons=true&theme=midnight-purple&hide=prs">
 <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccaokine&layout=compact&theme=midnight-purple""(https://github.com/rebeccaokine/github-readme-stats)">
 </div>
 
