@@ -5,7 +5,7 @@
 
 ##  👩🏿‍💻 About me:
 🖥️ I'm a student developer from Ghana
-- 🔭 I’m currently working on my portfolio website
+- 🔭 I’m currently working new projects
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on frontend projects and design projects
 - 🤔 I’m looking for help with data structure and algorithms
