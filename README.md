@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on new projects
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on frontend projects and design projects
-- 🤔 I’m looking for help with data structure and algorithms
 - ⚡ Fun fact: I'm also exploring UI/UX design
 - 📔 I love reading self help books
 - 🎧 I also love listening to music and podcasts
